@@ -1,0 +1,6 @@
+{
+    "versionCode": 540,
+    "versionName": "v2.4",
+    "changelog": ["default playlist", "app in landscape mode", "ffmpeg libs", "optimize prebuffer", "change player layout", "and more.."],
+    "downloadUrl": "https://github.com/wezute/files/releases/download/v2.4/test.apk"
+}
